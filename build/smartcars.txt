@@ -1,0 +1,350 @@
+Car ID: qusn00000001
+Chassis ID: p00000001
+Chassis Model: SCOUT MINI
+Chassis Wheelbase (mm): 451
+Chassis Track (mm): 490
+Chassis Ground Clearance (mm): 115
+Chassis Minimum Turning Radius (m): 0
+Chassis Drive Type: 四轮四驱
+Chassis Max Range (KM): 10
+Chassis Tires: 公路轮, 麦克纳姆轮, 公路轮, 麦克纳姆轮
+AGX Kit Model: GX Xavier
+AGX Kit AI Performance (TOPS): 32
+AGX Kit CUDA Cores: 512
+AGX Kit Tensor Cores: 64
+AGX Kit Memory (GB): 32
+AGX Kit Storage (GB): 32
+Stereo Camera Model: RealSense D435i
+Stereo Camera Camera: D430
+Stereo Camera RGB Resolution: 1920*1080
+Stereo Camera RGB Frame Rate: 30
+Stereo Camera FOV: 87*58
+Stereo Camera Depth Frame Rate: 90
+Gyroscope Model: RS-Helios-16p
+Gyroscope Manufacturer: NXP
+Lidar Model: S-Helios-16p
+Lidar Channels: 16
+Lidar Range (m): 100
+Lidar Power Consumption (W): 8
+Display Size (inches): 11.6
+Display Model: super
+Battery Parameters: 4V/15Ah
+Battery External Voltage (V): 24
+Battery Charging Time (H): 2
+Student ID: 20230002
+Student Name: 李四
+Car ID: qusn00000002
+Chassis ID: p00000002
+Chassis Model: SCOUT MINI
+Chassis Wheelbase (mm): 451
+Chassis Track (mm): 490
+Chassis Ground Clearance (mm): 115
+Chassis Minimum Turning Radius (m): 0
+Chassis Drive Type: 四轮四驱
+Chassis Max Range (KM): 10
+Chassis Tires: 公路轮, 麦克纳姆轮, 公路轮, 麦克纳姆轮
+AGX Kit Model: GX Xavier
+AGX Kit AI Performance (TOPS): 32
+AGX Kit CUDA Cores: 512
+AGX Kit Tensor Cores: 64
+AGX Kit Memory (GB): 32
+AGX Kit Storage (GB): 32
+Stereo Camera Model: RealSense D435i
+Stereo Camera Camera: D430
+Stereo Camera RGB Resolution: 1920*1080
+Stereo Camera RGB Frame Rate: 30
+Stereo Camera FOV: 87*58
+Stereo Camera Depth Frame Rate: 90
+Gyroscope Model: RS-Helios-16p
+Gyroscope Manufacturer: NXP
+Lidar Model: S-Helios-16p
+Lidar Channels: 16
+Lidar Range (m): 100
+Lidar Power Consumption (W): 8
+Display Size (inches): 11.6
+Display Model: super
+Battery Parameters: 4V/15Ah
+Battery External Voltage (V): 24
+Battery Charging Time (H): 2
+Student ID: 12345678
+Student Name: 张小明
+Car ID: qusn00000003
+Chassis ID: p00000003
+Chassis Model: SCOUT MINI
+Chassis Wheelbase (mm): 451
+Chassis Track (mm): 490
+Chassis Ground Clearance (mm): 115
+Chassis Minimum Turning Radius (m): 0
+Chassis Drive Type: 四轮四驱
+Chassis Max Range (KM): 10
+Chassis Tires: 公路轮, 麦克纳姆轮, 公路轮, 麦克纳姆轮
+AGX Kit Model: GX Xavier
+AGX Kit AI Performance (TOPS): 32
+AGX Kit CUDA Cores: 512
+AGX Kit Tensor Cores: 64
+AGX Kit Memory (GB): 32
+AGX Kit Storage (GB): 32
+Stereo Camera Model: RealSense D435i
+Stereo Camera Camera: D430
+Stereo Camera RGB Resolution: 1920*1080
+Stereo Camera RGB Frame Rate: 30
+Stereo Camera FOV: 87*58
+Stereo Camera Depth Frame Rate: 90
+Gyroscope Model: RS-Helios-16p
+Gyroscope Manufacturer: NXP
+Lidar Model: S-Helios-16p
+Lidar Channels: 16
+Lidar Range (m): 100
+Lidar Power Consumption (W): 8
+Display Size (inches): 11.6
+Display Model: super
+Battery Parameters: 4V/15Ah
+Battery External Voltage (V): 24
+Battery Charging Time (H): 2
+Student ID: 87654321
+Student Name: 王芳
+Car ID: qusn00000004
+Chassis ID: p00000004
+Chassis Model: SCOUT MINI
+Chassis Wheelbase (mm): 451
+Chassis Track (mm): 490
+Chassis Ground Clearance (mm): 115
+Chassis Minimum Turning Radius (m): 0
+Chassis Drive Type: 四轮四驱
+Chassis Max Range (KM): 10
+Chassis Tires: 公路轮, 麦克纳姆轮, 公路轮, 麦克纳姆轮
+AGX Kit Model: GX Xavier
+AGX Kit AI Performance (TOPS): 32
+AGX Kit CUDA Cores: 512
+AGX Kit Tensor Cores: 64
+AGX Kit Memory (GB): 32
+AGX Kit Storage (GB): 32
+Stereo Camera Model: RealSense D435i
+Stereo Camera Camera: D430
+Stereo Camera RGB Resolution: 1920*1080
+Stereo Camera RGB Frame Rate: 30
+Stereo Camera FOV: 87*58
+Stereo Camera Depth Frame Rate: 90
+Gyroscope Model: RS-Helios-16p
+Gyroscope Manufacturer: NXP
+Lidar Model: S-Helios-16p
+Lidar Channels: 16
+Lidar Range (m): 100
+Lidar Power Consumption (W): 8
+Display Size (inches): 11.6
+Display Model: super
+Battery Parameters: 4V/15Ah
+Battery External Voltage (V): 24
+Battery Charging Time (H): 2
+Student ID: 23456789
+Student Name: 李伟
+Car ID: qusn00000005
+Chassis ID: p00000005
+Chassis Model: SCOUT MINI
+Chassis Wheelbase (mm): 451
+Chassis Track (mm): 490
+Chassis Ground Clearance (mm): 115
+Chassis Minimum Turning Radius (m): 0
+Chassis Drive Type: 四轮四驱
+Chassis Max Range (KM): 10
+Chassis Tires: 公路轮, 麦克纳姆轮, 公路轮, 麦克纳姆轮
+AGX Kit Model: GX Xavier
+AGX Kit AI Performance (TOPS): 32
+AGX Kit CUDA Cores: 512
+AGX Kit Tensor Cores: 64
+AGX Kit Memory (GB): 32
+AGX Kit Storage (GB): 32
+Stereo Camera Model: RealSense D435i
+Stereo Camera Camera: D430
+Stereo Camera RGB Resolution: 1920*1080
+Stereo Camera RGB Frame Rate: 30
+Stereo Camera FOV: 87*58
+Stereo Camera Depth Frame Rate: 90
+Gyroscope Model: RS-Helios-16p
+Gyroscope Manufacturer: NXP
+Lidar Model: S-Helios-16p
+Lidar Channels: 16
+Lidar Range (m): 100
+Lidar Power Consumption (W): 8
+Display Size (inches): 11.6
+Display Model: super
+Battery Parameters: 4V/15Ah
+Battery External Voltage (V): 24
+Battery Charging Time (H): 2
+Student ID: 98765432
+Student Name: 赵秀英
+Car ID: qusn00000006
+Chassis ID: p00000006
+Chassis Model: SCOUT MINI
+Chassis Wheelbase (mm): 451
+Chassis Track (mm): 490
+Chassis Ground Clearance (mm): 115
+Chassis Minimum Turning Radius (m): 0
+Chassis Drive Type: 四轮四驱
+Chassis Max Range (KM): 10
+Chassis Tires: 公路轮, 麦克纳姆轮, 公路轮, 麦克纳姆轮
+AGX Kit Model: GX Xavier
+AGX Kit AI Performance (TOPS): 32
+AGX Kit CUDA Cores: 512
+AGX Kit Tensor Cores: 64
+AGX Kit Memory (GB): 32
+AGX Kit Storage (GB): 32
+Stereo Camera Model: RealSense D435i
+Stereo Camera Camera: D430
+Stereo Camera RGB Resolution: 1920*1080
+Stereo Camera RGB Frame Rate: 30
+Stereo Camera FOV: 87*58
+Stereo Camera Depth Frame Rate: 90
+Gyroscope Model: RS-Helios-16p
+Gyroscope Manufacturer: NXP
+Lidar Model: S-Helios-16p
+Lidar Channels: 16
+Lidar Range (m): 100
+Lidar Power Consumption (W): 8
+Display Size (inches): 11.6
+Display Model: super
+Battery Parameters: 4V/15Ah
+Battery External Voltage (V): 24
+Battery Charging Time (H): 2
+Student ID: 34567890
+Student Name: 刘伟
+Car ID: qusn00000007
+Chassis ID: p00000007
+Chassis Model: SCOUT MINI
+Chassis Wheelbase (mm): 451
+Chassis Track (mm): 490
+Chassis Ground Clearance (mm): 115
+Chassis Minimum Turning Radius (m): 0
+Chassis Drive Type: 四轮四驱
+Chassis Max Range (KM): 10
+Chassis Tires: 公路轮, 麦克纳姆轮, 公路轮, 麦克纳姆轮
+AGX Kit Model: GX Xavier
+AGX Kit AI Performance (TOPS): 32
+AGX Kit CUDA Cores: 512
+AGX Kit Tensor Cores: 64
+AGX Kit Memory (GB): 32
+AGX Kit Storage (GB): 32
+Stereo Camera Model: RealSense D435i
+Stereo Camera Camera: D430
+Stereo Camera RGB Resolution: 1920*1080
+Stereo Camera RGB Frame Rate: 30
+Stereo Camera FOV: 87*58
+Stereo Camera Depth Frame Rate: 90
+Gyroscope Model: RS-Helios-16p
+Gyroscope Manufacturer: NXP
+Lidar Model: S-Helios-16p
+Lidar Channels: 16
+Lidar Range (m): 100
+Lidar Power Consumption (W): 8
+Display Size (inches): 11.6
+Display Model: super
+Battery Parameters: 4V/15Ah
+Battery External Voltage (V): 24
+Battery Charging Time (H): 2
+Student ID: 90876543
+Student Name: 陈军
+Car ID: qusn00000008
+Chassis ID: p00000008
+Chassis Model: SCOUT MINI
+Chassis Wheelbase (mm): 451
+Chassis Track (mm): 490
+Chassis Ground Clearance (mm): 115
+Chassis Minimum Turning Radius (m): 0
+Chassis Drive Type: 四轮四驱
+Chassis Max Range (KM): 10
+Chassis Tires: 公路轮, 麦克纳姆轮, 公路轮, 麦克纳姆轮
+AGX Kit Model: GX Xavier
+AGX Kit AI Performance (TOPS): 32
+AGX Kit CUDA Cores: 512
+AGX Kit Tensor Cores: 64
+AGX Kit Memory (GB): 32
+AGX Kit Storage (GB): 32
+Stereo Camera Model: RealSense D435i
+Stereo Camera Camera: D430
+Stereo Camera RGB Resolution: 1920*1080
+Stereo Camera RGB Frame Rate: 30
+Stereo Camera FOV: 87*58
+Stereo Camera Depth Frame Rate: 90
+Gyroscope Model: RS-Helios-16p
+Gyroscope Manufacturer: NXP
+Lidar Model: S-Helios-16p
+Lidar Channels: 16
+Lidar Range (m): 100
+Lidar Power Consumption (W): 8
+Display Size (inches): 11.6
+Display Model: super
+Battery Parameters: 4V/15Ah
+Battery External Voltage (V): 24
+Battery Charging Time (H): 2
+Student ID: 10987654
+Student Name: 朱丽
+Car ID: qusn00000009
+Chassis ID: p00000009
+Chassis Model: SCOUT MINI
+Chassis Wheelbase (mm): 451
+Chassis Track (mm): 490
+Chassis Ground Clearance (mm): 115
+Chassis Minimum Turning Radius (m): 0
+Chassis Drive Type: 四轮四驱
+Chassis Max Range (KM): 10
+Chassis Tires: 公路轮, 麦克纳姆轮, 公路轮, 麦克纳姆轮
+AGX Kit Model: GX Xavier
+AGX Kit AI Performance (TOPS): 32
+AGX Kit CUDA Cores: 512
+AGX Kit Tensor Cores: 64
+AGX Kit Memory (GB): 32
+AGX Kit Storage (GB): 32
+Stereo Camera Model: RealSense D435i
+Stereo Camera Camera: D430
+Stereo Camera RGB Resolution: 1920*1080
+Stereo Camera RGB Frame Rate: 30
+Stereo Camera FOV: 87*58
+Stereo Camera Depth Frame Rate: 90
+Gyroscope Model: RS-Helios-16p
+Gyroscope Manufacturer: NXP
+Lidar Model: S-Helios-16p
+Lidar Channels: 16
+Lidar Range (m): 100
+Lidar Power Consumption (W): 8
+Display Size (inches): 11.6
+Display Model: super
+Battery Parameters: 4V/15Ah
+Battery External Voltage (V): 24
+Battery Charging Time (H): 2
+Student ID: 56789012
+Student Name: 刘涛
+Car ID: qusn00000010
+Chassis ID: p00000010
+Chassis Model: SCOUT MINI
+Chassis Wheelbase (mm): 451
+Chassis Track (mm): 490
+Chassis Ground Clearance (mm): 115
+Chassis Minimum Turning Radius (m): 0
+Chassis Drive Type: 四轮四驱
+Chassis Max Range (KM): 10
+Chassis Tires: 公路轮, 麦克纳姆轮, 公路轮, 麦克纳姆轮
+AGX Kit Model: GX Xavier
+AGX Kit AI Performance (TOPS): 32
+AGX Kit CUDA Cores: 512
+AGX Kit Tensor Cores: 64
+AGX Kit Memory (GB): 32
+AGX Kit Storage (GB): 32
+Stereo Camera Model: RealSense D435i
+Stereo Camera Camera: D430
+Stereo Camera RGB Resolution: 1920*1080
+Stereo Camera RGB Frame Rate: 30
+Stereo Camera FOV: 87*58
+Stereo Camera Depth Frame Rate: 90
+Gyroscope Model: RS-Helios-16p
+Gyroscope Manufacturer: NXP
+Lidar Model: S-Helios-16p
+Lidar Channels: 16
+Lidar Range (m): 100
+Lidar Power Consumption (W): 8
+Display Size (inches): 11.6
+Display Model: super
+Battery Parameters: 4V/15Ah
+Battery External Voltage (V): 24
+Battery Charging Time (H): 2
+Student ID: 21098765
+Student Name: 周婷
