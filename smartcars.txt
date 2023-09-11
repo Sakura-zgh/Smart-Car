@@ -1,0 +1,350 @@
+Car ID: cqusn0001
+Chassis ID: dp00000001
+Chassis Model: SCOUT MINI
+Chassis Wheelbase (mm): 451
+Chassis Track (mm): 490
+Chassis Ground Clearance (mm): 115
+Chassis Minimum Turning Radius (m): 0
+Chassis Drive Type: Four-wheel drive
+Chassis Max Range (KM): 10
+Chassis Tires: Highway tire, Mecanum wheel, Highway tire, Mecanum wheel
+AGX Kit Model: GX Xavier
+AGX Kit AI Performance (TOPS): 32
+AGX Kit CUDA Cores: 512
+AGX Kit Tensor Cores: 64
+AGX Kit Memory (GB): 32
+AGX Kit Storage (GB): 32
+Stereo Camera Model: RealSense D435i
+Stereo Camera Camera: D430
+Stereo Camera RGB Resolution: RealSense D435i
+Stereo Camera RGB Frame Rate: 30
+Stereo Camera FOV: 87*58
+Stereo Camera Depth Frame Rate: 90
+Lidar Model: -16p
+Lidar Channels: 16
+Lidar Range (m): 100
+Lidar Power Consumption (W): 8
+Gyroscope Model: CH110
+Gyroscope Manufacturer: NXP
+Display Size (inches): 11.6
+Display Model: SUPER
+Battery Parameters: 24V/15AH
+Battery External Voltage (V): 24
+Battery Charging Time (H): 2
+Student ID: 1234
+Student Name: JHOO DOE
+Car ID: cqusn0002
+Chassis ID: dp00000001
+Chassis Model: SCOUT MINI
+Chassis Wheelbase (mm): 451
+Chassis Track (mm): 490
+Chassis Ground Clearance (mm): 115
+Chassis Minimum Turning Radius (m): 0
+Chassis Drive Type: Four-wheel drive
+Chassis Max Range (KM): 10
+Chassis Tires: Highway tire, Mecanum wheel, Highway tire, Mecanum wheel
+AGX Kit Model: GX Xavier
+AGX Kit AI Performance (TOPS): 32
+AGX Kit CUDA Cores: 512
+AGX Kit Tensor Cores: 64
+AGX Kit Memory (GB): 32
+AGX Kit Storage (GB): 32
+Stereo Camera Model: RealSense D435i
+Stereo Camera Camera: D430
+Stereo Camera RGB Resolution: RealSense D435i
+Stereo Camera RGB Frame Rate: 30
+Stereo Camera FOV: 87*58
+Stereo Camera Depth Frame Rate: 90
+Lidar Model: -16p
+Lidar Channels: 16
+Lidar Range (m): 100
+Lidar Power Consumption (W): 8
+Gyroscope Model: CH110
+Gyroscope Manufacturer: NXP
+Display Size (inches): 11.6
+Display Model: SUPER
+Battery Parameters: 24V/15AH
+Battery External Voltage (V): 24
+Battery Charging Time (H): 2
+Student ID: 1234
+Student Name: JHOO DOE
+Car ID: cqusn0003
+Chassis ID: dp00000001
+Chassis Model: SCOUT MINI
+Chassis Wheelbase (mm): 451
+Chassis Track (mm): 490
+Chassis Ground Clearance (mm): 115
+Chassis Minimum Turning Radius (m): 0
+Chassis Drive Type: Four-wheel drive
+Chassis Max Range (KM): 10
+Chassis Tires: Highway tire, Mecanum wheel, Highway tire, Mecanum wheel
+AGX Kit Model: GX Xavier
+AGX Kit AI Performance (TOPS): 32
+AGX Kit CUDA Cores: 512
+AGX Kit Tensor Cores: 64
+AGX Kit Memory (GB): 32
+AGX Kit Storage (GB): 32
+Stereo Camera Model: RealSense D435i
+Stereo Camera Camera: D430
+Stereo Camera RGB Resolution: RealSense D435i
+Stereo Camera RGB Frame Rate: 30
+Stereo Camera FOV: 87*58
+Stereo Camera Depth Frame Rate: 90
+Lidar Model: -16p
+Lidar Channels: 16
+Lidar Range (m): 100
+Lidar Power Consumption (W): 8
+Gyroscope Model: CH110
+Gyroscope Manufacturer: NXP
+Display Size (inches): 11.6
+Display Model: SUPER
+Battery Parameters: 24V/15AH
+Battery External Voltage (V): 24
+Battery Charging Time (H): 2
+Student ID: 1234
+Student Name: JHOO DOE
+Car ID: cqusn0004
+Chassis ID: dp00000001
+Chassis Model: SCOUT MINI
+Chassis Wheelbase (mm): 451
+Chassis Track (mm): 490
+Chassis Ground Clearance (mm): 115
+Chassis Minimum Turning Radius (m): 0
+Chassis Drive Type: Four-wheel drive
+Chassis Max Range (KM): 10
+Chassis Tires: Highway tire, Mecanum wheel, Highway tire, Mecanum wheel
+AGX Kit Model: GX Xavier
+AGX Kit AI Performance (TOPS): 32
+AGX Kit CUDA Cores: 512
+AGX Kit Tensor Cores: 64
+AGX Kit Memory (GB): 32
+AGX Kit Storage (GB): 32
+Stereo Camera Model: RealSense D435i
+Stereo Camera Camera: D430
+Stereo Camera RGB Resolution: RealSense D435i
+Stereo Camera RGB Frame Rate: 30
+Stereo Camera FOV: 87*58
+Stereo Camera Depth Frame Rate: 90
+Lidar Model: -16p
+Lidar Channels: 16
+Lidar Range (m): 100
+Lidar Power Consumption (W): 8
+Gyroscope Model: CH110
+Gyroscope Manufacturer: NXP
+Display Size (inches): 11.6
+Display Model: SUPER
+Battery Parameters: 24V/15AH
+Battery External Voltage (V): 24
+Battery Charging Time (H): 2
+Student ID: 1234
+Student Name: JHOO DOE
+Car ID: cqusn0005
+Chassis ID: dp00000001
+Chassis Model: SCOUT MINI
+Chassis Wheelbase (mm): 451
+Chassis Track (mm): 490
+Chassis Ground Clearance (mm): 115
+Chassis Minimum Turning Radius (m): 0
+Chassis Drive Type: Four-wheel drive
+Chassis Max Range (KM): 10
+Chassis Tires: Highway tire, Mecanum wheel, Highway tire, Mecanum wheel
+AGX Kit Model: GX Xavier
+AGX Kit AI Performance (TOPS): 32
+AGX Kit CUDA Cores: 512
+AGX Kit Tensor Cores: 64
+AGX Kit Memory (GB): 32
+AGX Kit Storage (GB): 32
+Stereo Camera Model: RealSense D435i
+Stereo Camera Camera: D430
+Stereo Camera RGB Resolution: RealSense D435i
+Stereo Camera RGB Frame Rate: 30
+Stereo Camera FOV: 87*58
+Stereo Camera Depth Frame Rate: 90
+Lidar Model: -16p
+Lidar Channels: 16
+Lidar Range (m): 100
+Lidar Power Consumption (W): 8
+Gyroscope Model: CH110
+Gyroscope Manufacturer: NXP
+Display Size (inches): 11.6
+Display Model: SUPER
+Battery Parameters: 24V/15AH
+Battery External Voltage (V): 24
+Battery Charging Time (H): 2
+Student ID: 1234
+Student Name: JHOO DOE
+Car ID: cqusn0006
+Chassis ID: dp00000001
+Chassis Model: SCOUT MINI
+Chassis Wheelbase (mm): 451
+Chassis Track (mm): 490
+Chassis Ground Clearance (mm): 115
+Chassis Minimum Turning Radius (m): 0
+Chassis Drive Type: Four-wheel drive
+Chassis Max Range (KM): 10
+Chassis Tires: Highway tire, Mecanum wheel, Highway tire, Mecanum wheel
+AGX Kit Model: GX Xavier
+AGX Kit AI Performance (TOPS): 32
+AGX Kit CUDA Cores: 512
+AGX Kit Tensor Cores: 64
+AGX Kit Memory (GB): 32
+AGX Kit Storage (GB): 32
+Stereo Camera Model: RealSense D435i
+Stereo Camera Camera: D430
+Stereo Camera RGB Resolution: RealSense D435i
+Stereo Camera RGB Frame Rate: 30
+Stereo Camera FOV: 87*58
+Stereo Camera Depth Frame Rate: 90
+Lidar Model: -16p
+Lidar Channels: 16
+Lidar Range (m): 100
+Lidar Power Consumption (W): 8
+Gyroscope Model: CH110
+Gyroscope Manufacturer: NXP
+Display Size (inches): 11.6
+Display Model: SUPER
+Battery Parameters: 24V/15AH
+Battery External Voltage (V): 24
+Battery Charging Time (H): 2
+Student ID: 1234
+Student Name: JHOO DOE
+Car ID: cqusn0007
+Chassis ID: dp00000001
+Chassis Model: SCOUT MINI
+Chassis Wheelbase (mm): 451
+Chassis Track (mm): 490
+Chassis Ground Clearance (mm): 115
+Chassis Minimum Turning Radius (m): 0
+Chassis Drive Type: Four-wheel drive
+Chassis Max Range (KM): 10
+Chassis Tires: Highway tire, Mecanum wheel, Highway tire, Mecanum wheel
+AGX Kit Model: GX Xavier
+AGX Kit AI Performance (TOPS): 32
+AGX Kit CUDA Cores: 512
+AGX Kit Tensor Cores: 64
+AGX Kit Memory (GB): 32
+AGX Kit Storage (GB): 32
+Stereo Camera Model: RealSense D435i
+Stereo Camera Camera: D430
+Stereo Camera RGB Resolution: RealSense D435i
+Stereo Camera RGB Frame Rate: 30
+Stereo Camera FOV: 87*58
+Stereo Camera Depth Frame Rate: 90
+Lidar Model: -16p
+Lidar Channels: 16
+Lidar Range (m): 100
+Lidar Power Consumption (W): 8
+Gyroscope Model: CH110
+Gyroscope Manufacturer: NXP
+Display Size (inches): 11.6
+Display Model: SUPER
+Battery Parameters: 24V/15AH
+Battery External Voltage (V): 24
+Battery Charging Time (H): 2
+Student ID: 1234
+Student Name: JHOO DOE
+Car ID: cqusn0008
+Chassis ID: dp00000001
+Chassis Model: SCOUT MINI
+Chassis Wheelbase (mm): 451
+Chassis Track (mm): 490
+Chassis Ground Clearance (mm): 115
+Chassis Minimum Turning Radius (m): 0
+Chassis Drive Type: Four-wheel drive
+Chassis Max Range (KM): 10
+Chassis Tires: Highway tire, Mecanum wheel, Highway tire, Mecanum wheel
+AGX Kit Model: GX Xavier
+AGX Kit AI Performance (TOPS): 32
+AGX Kit CUDA Cores: 512
+AGX Kit Tensor Cores: 64
+AGX Kit Memory (GB): 32
+AGX Kit Storage (GB): 32
+Stereo Camera Model: RealSense D435i
+Stereo Camera Camera: D430
+Stereo Camera RGB Resolution: RealSense D435i
+Stereo Camera RGB Frame Rate: 30
+Stereo Camera FOV: 87*58
+Stereo Camera Depth Frame Rate: 90
+Lidar Model: -16p
+Lidar Channels: 16
+Lidar Range (m): 100
+Lidar Power Consumption (W): 8
+Gyroscope Model: CH110
+Gyroscope Manufacturer: NXP
+Display Size (inches): 11.6
+Display Model: SUPER
+Battery Parameters: 24V/15AH
+Battery External Voltage (V): 24
+Battery Charging Time (H): 2
+Student ID: 1234
+Student Name: JHOO DOE
+Car ID: cqusn0009
+Chassis ID: dp00000001
+Chassis Model: SCOUT MINI
+Chassis Wheelbase (mm): 451
+Chassis Track (mm): 490
+Chassis Ground Clearance (mm): 115
+Chassis Minimum Turning Radius (m): 0
+Chassis Drive Type: Four-wheel drive
+Chassis Max Range (KM): 10
+Chassis Tires: Highway tire, Mecanum wheel, Highway tire, Mecanum wheel
+AGX Kit Model: GX Xavier
+AGX Kit AI Performance (TOPS): 32
+AGX Kit CUDA Cores: 512
+AGX Kit Tensor Cores: 64
+AGX Kit Memory (GB): 32
+AGX Kit Storage (GB): 32
+Stereo Camera Model: RealSense D435i
+Stereo Camera Camera: D430
+Stereo Camera RGB Resolution: RealSense D435i
+Stereo Camera RGB Frame Rate: 30
+Stereo Camera FOV: 87*58
+Stereo Camera Depth Frame Rate: 90
+Lidar Model: -16p
+Lidar Channels: 16
+Lidar Range (m): 100
+Lidar Power Consumption (W): 8
+Gyroscope Model: CH110
+Gyroscope Manufacturer: NXP
+Display Size (inches): 11.6
+Display Model: SUPER
+Battery Parameters: 24V/15AH
+Battery External Voltage (V): 24
+Battery Charging Time (H): 2
+Student ID: 1234
+Student Name: JHOO DOE
+Car ID: cqusn00010
+Chassis ID: dp00000001
+Chassis Model: SCOUT MINI
+Chassis Wheelbase (mm): 451
+Chassis Track (mm): 490
+Chassis Ground Clearance (mm): 115
+Chassis Minimum Turning Radius (m): 0
+Chassis Drive Type: Four-wheel drive
+Chassis Max Range (KM): 10
+Chassis Tires: Highway tire, Mecanum wheel, Highway tire, Mecanum wheel
+AGX Kit Model: GX Xavier
+AGX Kit AI Performance (TOPS): 32
+AGX Kit CUDA Cores: 512
+AGX Kit Tensor Cores: 64
+AGX Kit Memory (GB): 32
+AGX Kit Storage (GB): 32
+Stereo Camera Model: RealSense D435i
+Stereo Camera Camera: D430
+Stereo Camera RGB Resolution: RealSense D435i
+Stereo Camera RGB Frame Rate: 30
+Stereo Camera FOV: 87*58
+Stereo Camera Depth Frame Rate: 90
+Lidar Model: -16p
+Lidar Channels: 16
+Lidar Range (m): 100
+Lidar Power Consumption (W): 8
+Gyroscope Model: CH110
+Gyroscope Manufacturer: NXP
+Display Size (inches): 11.6
+Display Model: SUPER
+Battery Parameters: 24V/15AH
+Battery External Voltage (V): 24
+Battery Charging Time (H): 2
+Student ID: 1234
+Student Name: JHOO DOE
